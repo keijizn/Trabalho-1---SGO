@@ -1,1 +1,1 @@
-# Trabalho-1---SGO
+# Trabalho-1 SGO
