@@ -1,1 +1,50 @@
-# Trabalho-1 SGO
+# 🏅 Sistema de Gestão das Olimpíadas (SGO)
+
+## 🧩 Descrição do Sistema
+
+O **Sistema de Gestão das Olimpíadas (SGO)** tem como objetivo auxiliar a organização e o controle das competições olímpicas.  
+Ele permite o gerenciamento completo das modalidades, atletas, locais, resultados e relatórios de medalhas, garantindo a integridade das informações e o acompanhamento em tempo real dos eventos.
+
+## 👥 Atores do Sistema
+
+- **Administrador:** cadastra competições, aloca locais e gera relatórios.  
+- **Comitê:** registra os resultados das competições e supervisiona o quadro de medalhas.  
+- **Atleta:** se inscreve nas competições e consulta resultados.
+
+## Histórias de Usuário
+
+### **US01 — Cadastrar Competição**
+Como administrador, quero cadastrar novas competições informando modalidade, data, horário e local, para permitir que atletas se inscrevam e o sistema controle os eventos olímpicos.
+
+### **US02 — Inscrever Atleta**
+Como atleta, quero me inscrever em competições disponíveis, para representar meu país nas modalidades que desejo participar.
+
+### **US03 — Alocar Local**
+Como administrador, quero associar locais específicos às competições, para garantir que não ocorram conflitos de horários e cada evento tenha uma sede definida.
+
+### **US04 — Registrar Resultados**
+Como comitê, quero registrar os resultados das competições, atribuindo medalhas aos atletas, para atualizar automaticamente o quadro de medalhas por país.
+
+### **US05 — Gerar Relatório de Medalhas**
+Como comitê, quero visualizar um relatório com a soma de medalhas por país, para acompanhar o ranking olímpico e identificar o desempenho geral.
+
+### **US06 — Consultar Competições e Resultados**
+Como atleta, quero visualizar as competições em que estou inscrito e meus resultados, para acompanhar meu desempenho durante os jogos.
+
+## 🧩 Diagramas UML
+
+### 1️⃣ Diagrama de Caso de Uso
+![Diagrama de Caso de Uso]![Diagrama de Casos de Uso SGO - Página 1](https://github.com/user-attachments/assets/22928390-8e5f-4093-94bd-0ff192faf6c0)
+
+### 2️⃣ Diagrama de Classes
+![Diagrama de Classes]<img width="606" height="642" alt="Diagrama de Classes SGO - Página 1" src="https://github.com/user-attachments/assets/459498e0-b22c-4fdf-a9fb-18c7c8e8fcd7" />
+
+### 3️⃣ Diagrama de Pacotes
+![Diagrama de Pacotes]<img width="2964" height="1463" alt="Diagrama de Pacotes SGO - Página 1" src="https://github.com/user-attachments/assets/a7512226-452e-4b3b-8874-71f7bfbc7d84" />
+
+### 4️⃣ Diagrama de Componentes
+![Diagrama de Componentes]<img width="2891" height="2139" alt="Diagrama de Componentes SGO - Página 1" src="https://github.com/user-attachments/assets/b1599c4c-7b4a-417e-9714-572960df56c6" />
+
+### 5️⃣ Diagrama de Implantação
+![Diagrama de Implantação]<img width="3791" height="943" alt="Diagrama de Implantação SGO - Página 1" src="https://github.com/user-attachments/assets/702fdaf8-7a1b-42d1-a891-cc4303dc4532" />
+
