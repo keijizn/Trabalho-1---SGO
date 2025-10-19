@@ -37,14 +37,16 @@ Como atleta, quero visualizar as competições em que estou inscrito e meus resu
 ![Diagrama de Caso de Uso]![Diagrama de Casos de Uso SGO - Página 1](https://github.com/user-attachments/assets/22928390-8e5f-4093-94bd-0ff192faf6c0)
 
 ### 2️⃣ Diagrama de Classes
-![Diagrama de Classes]<img width="606" height="642" alt="Diagrama de Classes SGO - Página 1" src="https://github.com/user-attachments/assets/459498e0-b22c-4fdf-a9fb-18c7c8e8fcd7" />
+<img width="606" height="642" alt="Diagrama de Classes SGO - Página 1" src="https://github.com/user-attachments/assets/459498e0-b22c-4fdf-a9fb-18c7c8e8fcd7" />
 
 ### 3️⃣ Diagrama de Pacotes
-![Diagrama de Pacotes]<img width="2964" height="1463" alt="Diagrama de Pacotes SGO - Página 1" src="https://github.com/user-attachments/assets/a7512226-452e-4b3b-8874-71f7bfbc7d84" />
+<img width="2964" height="1463" alt="Diagrama de Pacotes SGO - Página 1" src="https://github.com/user-attachments/assets/a7512226-452e-4b3b-8874-71f7bfbc7d84" />
 
 ### 4️⃣ Diagrama de Componentes
-![Diagrama de Componentes]<img width="2891" height="2139" alt="Diagrama de Componentes SGO - Página 1" src="https://github.com/user-attachments/assets/b1599c4c-7b4a-417e-9714-572960df56c6" />
+<img width="2891" height="2139" alt="Diagrama de Componentes SGO - Página 1" src="https://github.com/user-attachments/assets/b1599c4c-7b4a-417e-9714-572960df56c6" />
 
 ### 5️⃣ Diagrama de Implantação
-![Diagrama de Implantação]<img width="3791" height="943" alt="Diagrama de Implantação SGO - Página 1" src="https://github.com/user-attachments/assets/702fdaf8-7a1b-42d1-a891-cc4303dc4532" />
+<img width="3791" height="943" alt="Diagrama de Implantação SGO - Página 1" src="https://github.com/user-attachments/assets/702fdaf8-7a1b-42d1-a891-cc4303dc4532" />
 
+## 🔗 Link para o Diagrama de Componentes: 
+https://lucid.app/lucidchart/c6bec54e-cd7e-4eec-8cb7-ce89151fe5f6/edit?viewport_loc=-743%2C-881%2C4983%2C2481%2C0_0&invitationId=inv_8c742ea1-9e1b-463a-9513-dab99a902efe
