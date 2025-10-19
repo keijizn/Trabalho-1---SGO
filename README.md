@@ -50,3 +50,9 @@ Como atleta, quero visualizar as competições em que estou inscrito e meus resu
 
 ## 🔗 Link para o Diagrama de Componentes: 
 https://lucid.app/lucidchart/c6bec54e-cd7e-4eec-8cb7-ce89151fe5f6/edit?viewport_loc=-743%2C-881%2C4983%2C2481%2C0_0&invitationId=inv_8c742ea1-9e1b-463a-9513-dab99a902efe
+
+## 🔗 Link para os Diagramas de Implantação e Pacotes:
+https://lucid.app/lucidchart/fbe9b200-f114-4294-b89b-d12a6469fdeb/edit?viewport_loc=-7147%2C-1678%2C6048%2C3011%2C0_0&invitationId=inv_b1ab6a6c-84cc-4d1e-9ac6-edb5624853b7
+
+## 🔗 Link para os Diagrama de Classes:
+https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Diagrama%20de%20classe%20SGO&dark=auto#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1lS8Gg3syI2-090rCg86pPmmC2XRAxuwF%26export%3Ddownload
