@@ -34,7 +34,7 @@ Como atleta, quero visualizar as competições em que estou inscrito e meus resu
 ## 🧩 Diagramas UML
 
 ### 1️⃣ Diagrama de Caso de Uso
-![Diagrama de Caso de Uso]![Diagrama de Casos de Uso SGO - Página 1](https://github.com/user-attachments/assets/22928390-8e5f-4093-94bd-0ff192faf6c0)
+![Diagrama de Casos de Uso SGO - Página 1](https://github.com/user-attachments/assets/22928390-8e5f-4093-94bd-0ff192faf6c0)
 
 ### 2️⃣ Diagrama de Classes
 <img width="606" height="642" alt="Diagrama de Classes SGO - Página 1" src="https://github.com/user-attachments/assets/459498e0-b22c-4fdf-a9fb-18c7c8e8fcd7" />
